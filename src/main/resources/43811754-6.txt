@@ -1,0 +1,24 @@
+{
+NÂ°Conta: 43811754-6																			Saldo da conta R$1280.0
+[OperacaoBancaria{operador='Yuri', tipoOperacao='DEPOSITO', valorOperacao=80.0, dataHoraOperacao='2022-01-03T12:20:27'}
+[OperacaoBancaria{operador='Murilo', tipoOperacao='DEPOSITO', valorOperacao=40.0, dataHoraOperacao='2022-01-04T12:24:42'}
+[OperacaoBancaria{operador='Bryan', tipoOperacao='DEPOSITO', valorOperacao=420.0, dataHoraOperacao='2022-01-04T15:24:42'}
+[OperacaoBancaria{operador='Emanuel', tipoOperacao='DEPOSITO', valorOperacao=20.0, dataHoraOperacao='2022-01-04T15:24:42'}
+[OperacaoBancaria{operador='Francisco', tipoOperacao='SAQUE', valorOperacao=100.0, dataHoraOperacao='2022-01-07T13:55:53'}
+[OperacaoBancaria{operador='Victor', tipoOperacao='DEPOSITO', valorOperacao=40.0, dataHoraOperacao='2022-01-08T13:18:40'}
+[OperacaoBancaria{operador='Larissa', tipoOperacao='DEPOSITO', valorOperacao=300.0, dataHoraOperacao='2022-01-17T14:30:28'}
+[OperacaoBancaria{operador='DÃ©bora', tipoOperacao='DEPOSITO', valorOperacao=20.0, dataHoraOperacao='2022-01-20T12:43:47'}
+[OperacaoBancaria{operador='Ingrid', tipoOperacao='SAQUE', valorOperacao=600.0, dataHoraOperacao='2022-01-20T13:43:47'}
+[OperacaoBancaria{operador='Bryan', tipoOperacao='DEPOSITO', valorOperacao=100.0, dataHoraOperacao='2022-01-20T14:43:47'}
+[OperacaoBancaria{operador='Ezequiel', tipoOperacao='SAQUE', valorOperacao=360.0, dataHoraOperacao='2022-01-20T15:12:24'}
+[OperacaoBancaria{operador='Milene', tipoOperacao='DEPOSITO', valorOperacao=380.0, dataHoraOperacao='2022-01-21T11:37:07'}
+[OperacaoBancaria{operador='Lorenzo', tipoOperacao='DEPOSITO', valorOperacao=440.0, dataHoraOperacao='2022-01-21T14:42:37'}
+[OperacaoBancaria{operador='Catarina', tipoOperacao='SAQUE', valorOperacao=220.0, dataHoraOperacao='2022-01-25T11:22:43'}
+[OperacaoBancaria{operador='Murilo', tipoOperacao='DEPOSITO', valorOperacao=400.0, dataHoraOperacao='2022-01-25T11:22:43'}
+[OperacaoBancaria{operador='Francisco', tipoOperacao='DEPOSITO', valorOperacao=280.0, dataHoraOperacao='2022-01-25T13:22:43'}
+[OperacaoBancaria{operador='Murilo', tipoOperacao='SAQUE', valorOperacao=60.0, dataHoraOperacao='2022-01-26T14:53:20'}
+[OperacaoBancaria{operador='Clarissa', tipoOperacao='DEPOSITO', valorOperacao=20.0, dataHoraOperacao='2022-01-26T14:53:20'}
+[OperacaoBancaria{operador='Brenda', tipoOperacao='DEPOSITO', valorOperacao=560.0, dataHoraOperacao='2022-01-28T11:34:24'}
+[OperacaoBancaria{operador='Theo', tipoOperacao='SAQUE', valorOperacao=60.0, dataHoraOperacao='2022-01-28T14:34:24'}
+[OperacaoBancaria{operador='David', tipoOperacao='SAQUE', valorOperacao=180.0, dataHoraOperacao='2022-01-29T11:56:11'}
+[OperacaoBancaria{operador='AntÃ´nio', tipoOperacao='SAQUE', valorOperacao=240.0, dataHoraOperacao='2022-01-29T13:56:11'}

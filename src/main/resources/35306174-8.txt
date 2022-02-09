@@ -1,0 +1,19 @@
+{
+NÂ°Conta: 35306174-8																			Saldo da conta R$860.0
+[OperacaoBancaria{operador='Felipe', tipoOperacao='DEPOSITO', valorOperacao=100.0, dataHoraOperacao='2022-01-04T11:24:42'}
+[OperacaoBancaria{operador='Bryan', tipoOperacao='SAQUE', valorOperacao=80.0, dataHoraOperacao='2022-01-04T13:24:42'}
+[OperacaoBancaria{operador='Eduarda', tipoOperacao='SAQUE', valorOperacao=20.0, dataHoraOperacao='2022-01-07T15:36:58'}
+[OperacaoBancaria{operador='Larissa', tipoOperacao='DEPOSITO', valorOperacao=260.0, dataHoraOperacao='2022-01-07T15:55:53'}
+[OperacaoBancaria{operador='Miguel', tipoOperacao='DEPOSITO', valorOperacao=360.0, dataHoraOperacao='2022-01-08T13:18:40'}
+[OperacaoBancaria{operador='Larissa', tipoOperacao='DEPOSITO', valorOperacao=100.0, dataHoraOperacao='2022-01-17T11:30:28'}
+[OperacaoBancaria{operador='JoÃ£o', tipoOperacao='SAQUE', valorOperacao=280.0, dataHoraOperacao='2022-01-17T14:30:28'}
+[OperacaoBancaria{operador='Lucas', tipoOperacao='SAQUE', valorOperacao=220.0, dataHoraOperacao='2022-01-20T15:12:24'}
+[OperacaoBancaria{operador='Larissa', tipoOperacao='SAQUE', valorOperacao=300.0, dataHoraOperacao='2022-01-20T15:12:24'}
+[OperacaoBancaria{operador='Clarissa', tipoOperacao='DEPOSITO', valorOperacao=20.0, dataHoraOperacao='2022-01-21T14:37:07'}
+[OperacaoBancaria{operador='Helena', tipoOperacao='DEPOSITO', valorOperacao=160.0, dataHoraOperacao='2022-01-23T11:32:28'}
+[OperacaoBancaria{operador='Catarina', tipoOperacao='DEPOSITO', valorOperacao=80.0, dataHoraOperacao='2022-01-23T12:32:28'}
+[OperacaoBancaria{operador='Ingrid', tipoOperacao='DEPOSITO', valorOperacao=100.0, dataHoraOperacao='2022-01-25T12:22:43'}
+[OperacaoBancaria{operador='Giovanna', tipoOperacao='DEPOSITO', valorOperacao=160.0, dataHoraOperacao='2022-01-25T14:22:43'}
+[OperacaoBancaria{operador='Felipe', tipoOperacao='DEPOSITO', valorOperacao=60.0, dataHoraOperacao='2022-01-26T12:53:20'}
+[OperacaoBancaria{operador='Luis', tipoOperacao='DEPOSITO', valorOperacao=520.0, dataHoraOperacao='2022-01-26T15:53:20'}
+[OperacaoBancaria{operador='Ezequiel', tipoOperacao='SAQUE', valorOperacao=160.0, dataHoraOperacao='2022-01-28T13:34:24'}
