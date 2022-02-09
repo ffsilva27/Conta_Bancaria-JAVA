@@ -10,7 +10,6 @@ import java.util.*;
 import static java.nio.file.StandardOpenOption.CREATE;
 
 public class IOArquivo {
-    List<ContaBancaria> conta = new LinkedList<>();
     ContaBancaria contaBancaria;
     Map<String, ArrayList<OperacaoBancaria>> map = new HashMap<>();
 
